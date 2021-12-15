@@ -5,7 +5,8 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with C/C++
 - 💬 Ask me about any problem related to C and C++
-- 📫 How to reach me: ...
+- 📫 How to reach me: [Twitter](https://twitter.com/SahilSa21858499)
+                       / [LinkedIn](https://www.linkedin.com/in/sahil-saxena-b35999202/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: My mind keep switching between CP and Problem Solving for interview...
 -->

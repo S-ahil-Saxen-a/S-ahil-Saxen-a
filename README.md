@@ -9,4 +9,6 @@
                        / [LinkedIn](https://www.linkedin.com/in/sahil-saxena-b35999202/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: My mind keep switching between CP and Problem Solving for interview...
--->
+
+
+![Github Status](https://github-readme-stats.vercel.app/api?username=S-ahil-Saxen-a&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)

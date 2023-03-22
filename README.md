@@ -14,4 +14,4 @@
 ![Github Status](https://github-readme-stats.vercel.app/api?username=S-ahil-Saxen-a&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 ### HoloPins Badges
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://www.holopin.io/@s_ahil#)
+[![An image of @s_ahil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/s_ahil)](https://holopin.io/@s_ahil)
